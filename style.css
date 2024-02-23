@@ -1,7 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
 body{
     background-color: rgba(255, 169, 90, 0.692);
 }
 body{
-    font-size: 50px;
+    font-family:Josefin+Sans ;
     text-align: center;
 }

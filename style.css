@@ -3,8 +3,8 @@
 
 .titulo{
     text-align: center;
-    background-color: aquamarine;
-    color: azure;
+    background-color: rgb(221, 221, 221);
+    color: rgb(0, 207, 207);
     font-size: 70px;
 }
 body{
